@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mango_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mango_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mocktail_maker_header.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mocktail_maker_header.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_strawberry_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/strawberry_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mocktail_animation.webp.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mocktail_animation.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/font_bagel_fat_one.ttf.flat",
+        "source": "com.example.calculator.app-main-37:/font/bagel_fat_one.ttf"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_sunset_spice.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/sunset_spice.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.calculator.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_lemon_soda_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/lemon_soda_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_golden_mist.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/golden_mist.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_wooden_board.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/wooden_board.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_pink_island_dream.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/pink_island_dream.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_zesty_berry.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/zesty_berry.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_orange_grove.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/orange_grove.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_result_image.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/result_image.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_info_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/info_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_fire_and_ice.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/fire_and_ice.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_output_screen.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/output_screen.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_cover_bg.jpeg.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/cover_bg.jpeg"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_fruit_name_oval.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/fruit_name_oval.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_main_bg_pattern.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/main_bg_pattern.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/raw_splash_video.mp4.flat",
+        "source": "com.example.calculator.app-main-37:/raw/splash_video.mp4"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.calculator.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_tropical_oasis.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/tropical_oasis.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_orange_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/orange_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_background_picture.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/background_picture.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_the_hydrator.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/the_hydrator.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_watermelon_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/watermelon_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_ginger_lemon_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/ginger_lemon_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mocktail.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mocktail.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_summer_breeze.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/summer_breeze.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mocktail_gif.gif.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mocktail_gif.gif"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_immunity_booster.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/immunity_booster.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_pure_sunrise.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/pure_sunrise.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.calculator.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_application_header.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/application_header.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_citrus_blast.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/citrus_blast.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/layout_activity_splash.xml.flat",
+        "source": "com.example.calculator.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_coconut_water_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/coconut_water_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_melon_pop.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/melon_pop.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_next_button_bg.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/next_button_bg.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_button_bg.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/button_bg.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_strawberry_sparkler.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/strawberry_sparkler.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_mango_tango.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/mango_tango.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_sparkling_water_icon.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/sparkling_water_icon.png"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.calculator.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.calculator.app-debug-35:/drawable_overlay_image.png.flat",
+        "source": "com.example.calculator.app-main-37:/drawable/overlay_image.png"
+    }
+]

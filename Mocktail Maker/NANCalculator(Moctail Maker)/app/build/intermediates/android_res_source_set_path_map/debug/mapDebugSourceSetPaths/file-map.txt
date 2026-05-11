@@ -1,0 +1,39 @@
+com.example.calculator.app-viewpager2-1.0.0-0 /Users/tayya/.gradle/caches/9.1.0/transforms/00199fdf31127cdd9c73dc71ccf4a451/transformed/viewpager2-1.0.0/res
+com.example.calculator.app-core-viewtree-1.0.0-1 /Users/tayya/.gradle/caches/9.1.0/transforms/0816196435639ae606f59870b50d7c11/transformed/core-viewtree-1.0.0/res
+com.example.calculator.app-fragment-1.5.4-2 /Users/tayya/.gradle/caches/9.1.0/transforms/10f8ea6e61df0cfa040a2d6497c92a50/transformed/fragment-1.5.4/res
+com.example.calculator.app-transition-1.5.0-3 /Users/tayya/.gradle/caches/9.1.0/transforms/163bf9c7f7e1edb8859e5c16777ecf9e/transformed/transition-1.5.0/res
+com.example.calculator.app-core-ktx-1.18.0-4 /Users/tayya/.gradle/caches/9.1.0/transforms/2b964252e4f8dd40f776bac51251e92b/transformed/core-ktx-1.18.0/res
+com.example.calculator.app-lifecycle-livedata-core-2.6.2-5 /Users/tayya/.gradle/caches/9.1.0/transforms/2c822e5c5ffa568109045625a88badca/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.calculator.app-tracing-1.2.0-6 /Users/tayya/.gradle/caches/9.1.0/transforms/314f91f854d467f3adb2b59848749d5f/transformed/tracing-1.2.0/res
+com.example.calculator.app-profileinstaller-1.4.0-7 /Users/tayya/.gradle/caches/9.1.0/transforms/3fca5769884e55d2f5709e1faf64e1ca/transformed/profileinstaller-1.4.0/res
+com.example.calculator.app-emoji2-1.3.0-8 /Users/tayya/.gradle/caches/9.1.0/transforms/4162783d680baff384ae2078e3461de4/transformed/emoji2-1.3.0/res
+com.example.calculator.app-recyclerview-1.2.1-9 /Users/tayya/.gradle/caches/9.1.0/transforms/62c7ec29aa5cc906155b0a71dee8c8f2/transformed/recyclerview-1.2.1/res
+com.example.calculator.app-lifecycle-process-2.6.2-10 /Users/tayya/.gradle/caches/9.1.0/transforms/75dbb15e5dd1e4cafae89bd586294afa/transformed/lifecycle-process-2.6.2/res
+com.example.calculator.app-graphics-shapes-release-11 /Users/tayya/.gradle/caches/9.1.0/transforms/7c8933b671d1c75d5d438a9af0c4aa27/transformed/graphics-shapes-release/res
+com.example.calculator.app-material-1.13.0-12 /Users/tayya/.gradle/caches/9.1.0/transforms/a322cca74d2fd4eaf06d3a68fcc43a03/transformed/material-1.13.0/res
+com.example.calculator.app-startup-runtime-1.1.1-13 /Users/tayya/.gradle/caches/9.1.0/transforms/a324b979b5659ed6a0041c8594cd314d/transformed/startup-runtime-1.1.1/res
+com.example.calculator.app-constraintlayout-2.2.1-14 /Users/tayya/.gradle/caches/9.1.0/transforms/a444c551333cfdf123ffbb671570e1a5/transformed/constraintlayout-2.2.1/res
+com.example.calculator.app-drawerlayout-1.1.1-15 /Users/tayya/.gradle/caches/9.1.0/transforms/a710f407a9b635e849a129f078c284fa/transformed/drawerlayout-1.1.1/res
+com.example.calculator.app-dynamicanimation-1.1.0-16 /Users/tayya/.gradle/caches/9.1.0/transforms/a936423a90fe77e3ff1dded206b30c3e/transformed/dynamicanimation-1.1.0/res
+com.example.calculator.app-core-runtime-2.2.0-17 /Users/tayya/.gradle/caches/9.1.0/transforms/a9572c7528e76b24692e74380908b834/transformed/core-runtime-2.2.0/res
+com.example.calculator.app-cardview-1.0.0-18 /Users/tayya/.gradle/caches/9.1.0/transforms/b17497fcd457cd7348a6c48cb1e3cb56/transformed/cardview-1.0.0/res
+com.example.calculator.app-lifecycle-runtime-2.6.2-19 /Users/tayya/.gradle/caches/9.1.0/transforms/c2974680a81914c736f81639c9a13a58/transformed/lifecycle-runtime-2.6.2/res
+com.example.calculator.app-navigationevent-20 /Users/tayya/.gradle/caches/9.1.0/transforms/cd57ee48c06cb8c9c3d51ab75106d76b/transformed/navigationevent/res
+com.example.calculator.app-lifecycle-viewmodel-2.6.2-21 /Users/tayya/.gradle/caches/9.1.0/transforms/ce7950eb27e5773799e228490c0af0d1/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.calculator.app-annotation-experimental-1.4.1-22 /Users/tayya/.gradle/caches/9.1.0/transforms/d8751ff83451a112274e2f6b58938ca1/transformed/annotation-experimental-1.4.1/res
+com.example.calculator.app-activity-1.13.0-23 /Users/tayya/.gradle/caches/9.1.0/transforms/da3ba30ca9c2fef4474c2d7ce4da1501/transformed/activity-1.13.0/res
+com.example.calculator.app-emoji2-views-helper-1.3.0-24 /Users/tayya/.gradle/caches/9.1.0/transforms/de6de7ec84cf6b325429f75282bf6708/transformed/emoji2-views-helper-1.3.0/res
+com.example.calculator.app-core-1.18.0-25 /Users/tayya/.gradle/caches/9.1.0/transforms/e3d11e568bda030a585271b984fb6cf2/transformed/core-1.18.0/res
+com.example.calculator.app-appcompat-resources-1.7.1-26 /Users/tayya/.gradle/caches/9.1.0/transforms/e965a4a250696a17ed367d76c3f0753d/transformed/appcompat-resources-1.7.1/res
+com.example.calculator.app-savedstate-1.2.1-27 /Users/tayya/.gradle/caches/9.1.0/transforms/eef07a5fc6f6649ae63faf30f9005aeb/transformed/savedstate-1.2.1/res
+com.example.calculator.app-appcompat-1.7.1-28 /Users/tayya/.gradle/caches/9.1.0/transforms/f72bb1503fd65ecf608a8d15207ae7ab/transformed/appcompat-1.7.1/res
+com.example.calculator.app-lifecycle-viewmodel-savedstate-2.6.2-29 /Users/tayya/.gradle/caches/9.1.0/transforms/f7cdf69cbb58766243a86143ea534e7c/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.calculator.app-coordinatorlayout-1.1.0-30 /Users/tayya/.gradle/caches/9.1.0/transforms/f7ddf822ddf01cb5c14c1a4ceef6da95/transformed/coordinatorlayout-1.1.0/res
+com.example.calculator.app-lifecycle-livedata-2.6.2-31 /Users/tayya/.gradle/caches/9.1.0/transforms/f99394dbecda67bc3c63572a08b77faa/transformed/lifecycle-livedata-2.6.2/res
+com.example.calculator.app-pngs-32 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/build/generated/res/pngs/debug
+com.example.calculator.app-updated_navigation_xml-33 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/build/generated/updated_navigation_xml/debug
+com.example.calculator.app-packageDebugResources-34 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.calculator.app-packageDebugResources-35 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.calculator.app-debug-36 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.calculator.app-debug-37 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/src/debug/res
+com.example.calculator.app-main-38 /Users/tayya/Desktop/Mocktail Maker/NANCalculator(Moctail Maker)/app/src/main/res
