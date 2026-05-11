@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_profile_image.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/profile_image.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_order_placed_img.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/order_placed_img.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_that.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_that.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_profile.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_homepage_header.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/homepage_header.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_giorgio_armani.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/giorgio_armani.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_calm.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/calm.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_recommended_perfume1.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/recommended_perfume1.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_gucci_flora.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/gucci_flora.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_victoria_secret.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/victoria_secret.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_badge_background.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_my_way.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/my_way.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_4.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_4.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_image.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_image.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_card_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/card_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_side_image.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/side_image.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_result.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_bullet_point.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/bullet_point.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_miss_dior.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/miss_dior.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_box_3.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/box_3.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_givenchy.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/givenchy.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_6.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_6.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_kilian_sacred.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/kilian_sacred.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_black_ysl.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/black_ysl.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_welcome_page.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/welcome_page.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_check_out.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_check_out.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_cart.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_check_out_bg.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/check_out_bg.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_happy.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/happy.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_footer.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/footer.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_ic_eye_off.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/ic_eye_off.xml"
+    },
+    {
+        "merged": "com.example.perfumebar.app-debug-36:/layout_activity_profile.xml.flat",
+        "source": "com.example.perfumebar.app-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_pink_star.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/pink_star.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_yulong_perfume.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/yulong_perfume.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_profile_photo.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/profile_photo.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_recommended_perfume2.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/recommended_perfume2.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_victoria.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/victoria.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_sundazed.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/sundazed.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_green_yulong.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/green_yulong.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_armani.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/armani.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_home.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_favourite.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_recommended_perfume4.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/recommended_perfume4.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_edit_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/edit_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_add_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/add_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_chanel.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/chanel.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_tom_ford.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/tom_ford.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_french.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/french.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_yellow.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/yellow.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_instructions_bg.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/instructions_bg.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_icon_back.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/icon_back.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_fav_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/fav_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/font_risque.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/font/risque.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_recommended_box.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/recommended_box.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_box_2.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/box_2.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_1.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_1.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_login_image.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/login_image.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_fade_up_bg.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/fade_up_bg.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_profile_screen_img.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/profile_screen_img.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_confidence.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/confidence.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_homepage_bg_img.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/homepage_bg_img.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_forward_button.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/forward_button.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_energetic.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/energetic.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/raw_splash_screen.mp4.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/raw/splash_screen.mp4"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_order_screen.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/order_screen.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_logout_button.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/logout_button.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_result_screen_bg.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/result_screen_bg.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_bottom_fade_dark.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/bottom_fade_dark.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_instructions.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_instructions.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_5.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_5.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_recommended_perfume3.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/recommended_perfume3.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_instructions_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/instructions_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_favorite_bg.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/favorite_bg.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_home_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/home_icon.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_red_rose.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/red_rose.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_perfume_2.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/perfume_2.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_milky_musk.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/milky_musk.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_box_4.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/box_4.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_splash.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/raw_splash_video.mp4.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/raw/splash_video.mp4"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_ic_eye_on.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/ic_eye_on.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_box_1.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/box_1.png"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-debug-36:/drawable_wishlist_icon.png.flat",
+        "source": "/Users/tayya/.gradle/daemon/9.1.0/com.example.perfumebar.app-main-38:/drawable/wishlist_icon.png"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    res/drawable/bottom_fade_dark.xml
+
+    Gradient direction: angle="270" means TOP → BOTTOM
+      startColor  = top    = fully transparent  (#00000000)
+      endColor    = bottom = solid near-black   (#0D0D0D)
+
+    This ensures the footer area is ALWAYS dark, even when
+    the scroll content (which may be lighter) moves beneath it.
+    The white-footer-on-scroll bug is fully eliminated.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:startColor="#F5000000"
+        android:centerColor="#E0000000"
+        android:endColor="#00000000"
+        android:type="linear" />
+</shape>
