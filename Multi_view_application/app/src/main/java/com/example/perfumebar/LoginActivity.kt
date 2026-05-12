@@ -19,7 +19,7 @@ class LoginActivity : AppCompatActivity() {
 
     private var selectedImageUri: Uri? = null
 
-    // Launcher to pick an image and secure long-term access permissions
+    // Launcher to pick an image 
     private val pickImageLauncher = registerForActivityResult(ActivityResultContracts.GetContent()) { uri: Uri? ->
         uri?.let {
             try {
@@ -27,13 +27,12 @@ class LoginActivity : AppCompatActivity() {
                 val takeFlags: Int = Intent.FLAG_GRANT_READ_URI_PERMISSION
                 contentResolver.takePersistableUriPermission(it, takeFlags)
 
-                // 2. Save the URI and update the UI
+                // Save the URI and update the UI
                 selectedImageUri = it
                 val profileImage = findViewById<CircleImageView>(R.id.imageView2)
                 profileImage.setImageURI(it)
 
             } catch (e: Exception) {
-                // This can happen if the file picker doesn't support persistable URIs
                 selectedImageUri = it
                 findViewById<CircleImageView>(R.id.imageView2).setImageURI(it)
                 Toast.makeText(this, "Limited image access granted", Toast.LENGTH_SHORT).show()
