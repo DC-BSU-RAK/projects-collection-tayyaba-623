@@ -57,7 +57,7 @@ class CartActivity : AppCompatActivity() {
         }
 
         findViewById<LinearLayout>(R.id.btn_cart).setOnClickListener {
-            // Already in Cart, no action needed
+    
         }
 
         // Functional Wishlist Icon
@@ -72,7 +72,7 @@ class CartActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        // --- END FOOTER NAVIGATION ---
+        // END FOOTER NAVIGATION 
 
         btnBack.setOnClickListener { finish() }
 
