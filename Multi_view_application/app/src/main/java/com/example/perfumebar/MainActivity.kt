@@ -21,12 +21,12 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // --- ADD THIS NAVIGATION LOGIC ---
+        // ADD THIS NAVIGATION LOGIC 
 
-        // 1. Find your button using the ID from your XML
+        // Find your button using the ID from your XML
         val forwardBtn = findViewById<ImageView>(R.id.forwardButton)
 
-        // 2. Set the click listener to open your LoginActivity
+        // Set the click listener to open your LoginActivity
         forwardBtn.setOnClickListener {
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
