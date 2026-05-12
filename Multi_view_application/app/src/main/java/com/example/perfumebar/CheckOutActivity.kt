@@ -51,7 +51,7 @@ class CheckOutActivity : AppCompatActivity() {
 
         btnDone.typeface = risqueFont
 
-        // --- FOOTER NAVIGATION (No Numbers) ---
+        // FOOTER NAVIGATION 
         findViewById<LinearLayout>(R.id.btn_home).setOnClickListener {
             startActivity(Intent(this, HomeActivity::class.java))
             finish()
@@ -75,7 +75,7 @@ class CheckOutActivity : AppCompatActivity() {
 
         btnBack.setOnClickListener { finish() }
 
-        // --- PAYMENT LOGIC ---
+        // PAYMENT LOGIC 
         cardCash.setOnClickListener {
             selectedPaymentMethod = "Cash"
             highlightSelection(cardCash, cardCard, iconCashCheck, iconCardCheck)
