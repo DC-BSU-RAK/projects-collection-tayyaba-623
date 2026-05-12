@@ -39,14 +39,12 @@ class ResultActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_result)
 
-        // --- 1. SYSTEM UI ADJUSTMENTS ---
+        // SYSTEM UI ADJUSTMENTS
         // This finds the root layout automatically so you don't need to add an ID in XML
         val rootLayout = findViewById<View>(android.R.id.content).getRootView()
 
         ViewCompat.setOnApplyWindowInsetsListener(rootLayout) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            // We apply top padding for the status bar, but 0 for the bottom
-            // so the footer covers the bottom space perfectly.
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, 0)
             insets
         }
@@ -68,7 +66,7 @@ class ResultActivity : AppCompatActivity() {
 
         findViewById<ImageView>(R.id.icon_back).setOnClickListener { finish() }
 
-        // --- 2. FOOTER NAVIGATION ---
+        // FOOTER NAVIGATION 
         findViewById<View>(R.id.btn_home).setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_SINGLE_TOP
