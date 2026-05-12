@@ -22,7 +22,7 @@ class ProfileActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_profile)
 
-        // --- 1. INITIALIZE VIEWS ---
+        // INITIALIZE VIEWS 
         val profileImage = findViewById<CircleImageView>(R.id.imageView13)
         val tvUsernameLabel = findViewById<TextView>(R.id.textView5)
         val tvPasswordValue = findViewById<TextView>(R.id.textView8)
@@ -31,13 +31,13 @@ class ProfileActivity : AppCompatActivity() {
         val passwordToggle = findViewById<ImageView>(R.id.ivPasswordToggle)
         val backButton = findViewById<ImageView>(R.id.imageView16)
 
-        // --- 2. FETCH SHARED DATA ---
+        // FETCH SHARED DATA 
         val sharedPref = getSharedPreferences("PerfumePrefs", Context.MODE_PRIVATE)
         val savedName = sharedPref.getString("user_name", "Guest")
         val savedPass = sharedPref.getString("user_password", "********")
         val savedImgUriString = sharedPref.getString("user_image_uri", null)
 
-        // --- 3. APPLY DATA ---
+        // APPLY DATA 
         tvUsernameLabel?.text = "Username: $savedName"
 
         val passwordLength = savedPass?.length ?: 8
@@ -54,12 +54,12 @@ class ProfileActivity : AppCompatActivity() {
             }
         }
 
-        // --- 4. BACK NAVIGATION ---
+        // BACK NAVIGATION 
         backButton?.setOnClickListener {
             onBackPressedDispatcher.onBackPressed()
         }
 
-        // --- 5. PASSWORD TOGGLE ---
+        // PASSWORD TOGGLE 
         passwordToggle?.setOnClickListener {
             isPasswordVisible = !isPasswordVisible
             if (isPasswordVisible) {
@@ -72,7 +72,7 @@ class ProfileActivity : AppCompatActivity() {
             }
         }
 
-        // --- 6. LOGOUT NAVIGATION ---
+        // LOGOUT NAVIGATION 
         logoutButton?.setOnClickListener {
             val intent = Intent(this, LoginActivity::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
@@ -80,12 +80,12 @@ class ProfileActivity : AppCompatActivity() {
             finish()
         }
 
-        // --- 7. EDIT ICON ---
+        // EDIT ICON 
         editIcon?.setOnClickListener {
             Log.d("ProfileActivity", "Edit clicked")
         }
 
-        // --- 8. SYSTEM UI ADJUSTMENTS ---
+        // SYSTEM UI ADJUSTMENTS
         val mainView = findViewById<android.view.View>(R.id.main)
         mainView?.let { view ->
             ViewCompat.setOnApplyWindowInsetsListener(view) { v, insets ->
